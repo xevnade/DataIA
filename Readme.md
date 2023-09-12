@@ -1,4 +1,4 @@
-# Tesing Data Infrastructure & Analytics
+# Testing Data Infrastructure & Analytics
 Silahkan mengerjakan sesuai kemampuan Anda, Deadline 18 September 2023, jam 10:00 WIB. Fork repository ini, kirim "Pull Request" jika anda sudah selesai atau kirim email ke royyan@satunol.com.
 ## Kuis
 
