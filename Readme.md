@@ -1,4 +1,6 @@
-# Kuis
+# Tesing Data Infrastructure & Analytics
+Silahkan mengerjakan sesuai kemampuan Anda, Deadline 18 September 2023, jam 10:00 WIB. Fork repository ini, kirim "Pull Request" jika anda sudah selesai atau kirim email ke royyan@satunol.com.
+## Kuis
 
 - [?] Anda memiliki tabel "Orders" dengan kolom-kolom berikut: "OrderID," "CustomerID," "OrderDate," dan "TotalAmount." Tuliskan sebuah kueri SQL untuk menampilkan semua pesanan yang dibuat oleh pelanggan dengan ID tertentu pada tanggal tertentu.
 - [?] Bagaimana Anda akan mengimplementasikan pengolahan data real-time dalam infrastruktur data? Berikan contoh kasus penggunaan di mana pengolahan data real-time sangat penting.
@@ -8,7 +10,7 @@
 - [?] Mengapa visualisasi data penting dalam analisis data? Berikan contoh alat atau teknik yang biasa digunakan untuk membuat visualisasi data yang efektif.
 - [?] Jelaskan apa yang anda ketahui tentang: Race Condition, Deadlock, Indexing, Normalization, Replication, Backup and Restore, Data Migration dalam database. Jelaskan juga pengalaman anda yang pernah anda hadapi berhubungan dengan istilah-istilah tersebut.
 
-# Alghoritma
+## Alghoritma
 Kerjakan dengan menggunakan bahasa pemograman yg anda kuasai, buat folder terpisah untuk soal ini
 - [!] Anda memiliki dua buah array, yaitu DATA dan QUERIES, tentukan berapa kali setiap kata dalam QUERIES muncul dalam array DATA. Buatlah sebuah fungsi atau program untuk menghasilkan output yang berisi jumlah kemunculan setiap kata dalam QUERIES dalam DATA. 
 Contoh:  
@@ -40,5 +42,5 @@ maka hasilnya adalah 15 - 12 = 3
 
 ![Contoh gambar.](mapbox.jpg)
 
-# Challenge
+## Challenge
 Rancang solusi untuk mengolah data streaming secara real-time, seperti data sensor dari perangkat IoT. Rinci alat atau teknologi yang akan digunakan, serta langkah-langkah yang akan diambil dalam mengatasi masalah data streaming. Tambahakn link figma atau canva untuk mendukung penjelasan konsep anda dengan gambar flowchart yang baik.
