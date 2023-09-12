@@ -4,7 +4,7 @@
 - [?] Bagaimana Anda akan mengimplementasikan pengolahan data real-time dalam infrastruktur data? Berikan contoh kasus penggunaan di mana pengolahan data real-time sangat penting.
 - [?] Mengapa keamanan data sangat penting dalam infrastruktur data? Sebutkan beberapa langkah atau teknik yang dapat digunakan untuk melindungi data yang disimpan dan diproses.
 - [?] Bagaimana Anda akan menangani situasi di mana server database mengalami gangguan atau kegagalan yang mengancam kontinuitas operasional? Jelaskan tindakan darurat yang akan Anda lakukan.
-- [✔] Bagaimana Anda akan merencanakan dan mengembangkan infrastruktur data yang lebih besar untuk mendukung pertumbuhan bisnis? Jelaskan tahapan utama yang akan Anda lakukan.
+- [?] Bagaimana Anda akan merencanakan dan mengembangkan infrastruktur data yang lebih besar untuk mendukung pertumbuhan bisnis? Jelaskan tahapan utama yang akan Anda lakukan.
 - [?] Mengapa visualisasi data penting dalam analisis data? Berikan contoh alat atau teknik yang biasa digunakan untuk membuat visualisasi data yang efektif.
 - [?] Jelaskan apa yang anda ketahui tentang: Race Condition, Deadlock, Indexing, Normalization, Replication, Backup and Restore, Data Migration dalam database. Jelaskan juga pengalaman anda yang pernah anda hadapi berhubungan dengan istilah-istilah tersebut.
 
