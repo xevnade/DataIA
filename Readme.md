@@ -38,9 +38,9 @@ diagonal kedua = 0 + 5 + 7 = 12
 maka hasilnya adalah 15 - 12 = 3
 ```
 
-- [!] dengan menggunakan [Mapbox](https://docs.mapbox.com/help/glossary/mapbox-gl-js/) tambahkan polygon pada peta dengan tiga garis warna yang berbeda. 
+- [!] Dengan menggunakan [Mapbox](https://docs.mapbox.com/help/glossary/mapbox-gl-js/) tambahkan polygon pada peta dengan tiga garis warna yang berbeda. 
 
 ![Contoh gambar.](mapbox.jpg)
 
 ## Challenge
-Rancang solusi untuk mengolah data streaming secara real-time, seperti data sensor dari perangkat IoT. Rinci alat atau teknologi yang akan digunakan, serta langkah-langkah yang akan diambil dalam mengatasi masalah data streaming. Tambahakn link figma atau canva untuk mendukung penjelasan konsep anda dengan gambar flowchart yang baik.
+Rancang solusi untuk mengolah data streaming secara real-time, seperti data sensor dari perangkat IoT. Rinci alat atau teknologi yang akan digunakan, serta langkah-langkah yang akan diambil dalam mengatasi masalah data streaming. Tambahkan link figma atau canva untuk mendukung penjelasan konsep anda dengan gambar flowchart yang baik.
